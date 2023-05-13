@@ -1,0 +1,3 @@
+﻿  grad_spusk.cpp
+C:\Users\Sasha\source\repos\grad_spusk\grad_spusk\grad_spusk.cpp(109,40): warning C4244: аргумент: преобразование "double" в "int", возможна потеря данных
+  grad_spusk.vcxproj -> C:\Users\Sasha\source\repos\grad_spusk\x64\Debug\grad_spusk.exe

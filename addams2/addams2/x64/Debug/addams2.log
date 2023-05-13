@@ -1,0 +1,4 @@
+﻿  addams2.cpp
+C:\Users\Sasha\source\repos\addams2\addams2\addams2.cpp(24,11): warning C4244: инициализация: преобразование "double" в "int", возможна потеря данных
+C:\Users\Sasha\source\repos\addams2\addams2\addams2.cpp(18,12): warning C4101: j: неиспользованная локальная переменная
+  addams2.vcxproj -> C:\Users\Sasha\source\repos\addams2\x64\Debug\addams2.exe

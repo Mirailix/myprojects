@@ -1,0 +1,4 @@
+﻿  Nuton-Raphson.cpp
+C:\Users\Sasha\source\repos\Nuton-Raphson\Nuton-Raphson\Nuton-Raphson.cpp(163,37): warning C4244: +=: преобразование "double" в "float", возможна потеря данных
+C:\Users\Sasha\source\repos\Nuton-Raphson\Nuton-Raphson\Nuton-Raphson.cpp(219,40): warning C4244: аргумент: преобразование "double" в "int", возможна потеря данных
+  Nuton-Raphson.vcxproj -> C:\Users\Sasha\source\repos\Nuton-Raphson\x64\Debug\Nuton-Raphson.exe

@@ -1,0 +1,5 @@
+﻿  Nuton1.cpp
+C:\Users\Sasha\source\repos\Nuton1\Nuton1\Nuton1.cpp(140,37): warning C4244: +=: преобразование "double" в "float", возможна потеря данных
+C:\Users\Sasha\source\repos\Nuton1\Nuton1\Nuton1.cpp(107,28): warning C4101: alpha: неиспользованная локальная переменная
+C:\Users\Sasha\source\repos\Nuton1\Nuton1\Nuton1.cpp(194,40): warning C4244: аргумент: преобразование "double" в "int", возможна потеря данных
+  Nuton1.vcxproj -> C:\Users\Sasha\source\repos\Nuton1\x64\Debug\Nuton1.exe
